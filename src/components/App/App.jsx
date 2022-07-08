@@ -18,7 +18,7 @@ const App = () => {
       </Box>
       <Box>
         <div>
-          <img src="#" />
+          <img src="#" alt="person" />
         </div>
         <ContactInfo />
       </Box>
