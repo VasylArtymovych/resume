@@ -1,0 +1,1 @@
+export { SecondTitle } from './SecondTitle';
