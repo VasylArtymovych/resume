@@ -11,19 +11,19 @@ export const Work = () => {
           <ThirdTitle>
             Major economist <span>LLC "AZOT"</span>
           </ThirdTitle>
-          <p>July2008 - May2011 | Ukraine</p>
+          <p>October 2007 - May 2011 | Ukraine</p>
         </li>
         <li>
           <ThirdTitle>
             Team-leader <span>Premier Valeting</span>
           </ThirdTitle>
-          <p>July2012 - May2018 | United Kingdom</p>
+          <p>July 2012 - May 2018 | United Kingdom</p>
         </li>
         <li>
           <ThirdTitle>
-            Sales maneger <span>BIOFARMA</span>
+            Sales maneger <span>SIA BIAFARMA</span>
           </ThirdTitle>
-          <p>July2018 - May2020 | Latvia</p>
+          <p>July 2019 - May 2020 | Latvia</p>
         </li>
       </List>
     </Box>
