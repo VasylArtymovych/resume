@@ -5,7 +5,7 @@ import { SecondTitle } from 'components/SecondTitle';
 export const About = () => {
   return (
     <>
-      <Box p="10px" mb="25px">
+      <Box p="10px" mb="15px">
         <MainTitle>Vasyl Artymovych</MainTitle>
         <ThirdTitle>Junior Full-Stack Developer</ThirdTitle>
       </Box>

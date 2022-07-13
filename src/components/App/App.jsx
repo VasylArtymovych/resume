@@ -8,8 +8,8 @@ import { ContactInfo } from 'components/ContactInfo/ContactInfo';
 import { TechSkills } from 'components/TechSkills';
 import { SoftSkills } from 'components/SoftSkills';
 import { Languages } from 'components/Languages';
-// import photo from '../../images/IMG_3182.jpeg';
-import photo2 from '../../images/photo-yer.jpg';
+import photo from '../../images/IMG_3182.jpeg';
+// import photo2 from '../../images/photo-yer.jpg';
 
 const App = () => {
   return (
@@ -23,7 +23,7 @@ const App = () => {
       </RightSection>
       <LeftSection as="section">
         <ImgWraper>
-          <img src={photo2} alt="person" />
+          <img src={photo} alt="person" />
         </ImgWraper>
         <ContactInfo />
         <TechSkills />
