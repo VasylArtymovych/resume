@@ -6,10 +6,12 @@ export const Education = () => {
   return (
     <Box mb="30px">
       <SecondTitle>EDUCATION</SecondTitle>
-      <ThirdTitle>Ternopil National Economical University</ThirdTitle>
-      <SecondText>2003 - 2008 | Ternopil</SecondText>
-      <Text>Bachelouros degree in Banking Busines</Text>
-      <Text>Master's degree in Economics</Text>
+      <ThirdTitle>Ternopil National University of Economics</ThirdTitle>
+      <SecondText>2003 - 2007 | Ternopil</SecondText>
+      <Text>Bachelouros degree in Economic and Busines</Text>
+      <ThirdTitle>Ternopil National University of Economics</ThirdTitle>
+      <SecondText>2007 - 2008 | Ternopil</SecondText>
+      <Text>Master's degree in Banking busines</Text>
     </Box>
   );
 };
@@ -28,6 +30,8 @@ const ThirdTitle = styled('h3')`
 const Text = styled('p')`
   font-size: 12px;
   font-weight: 500;
+  margin-bottom: 20px;
+  line-height: 1;
   @media (min-width: 768px) {
     font-size: 14px;
   }

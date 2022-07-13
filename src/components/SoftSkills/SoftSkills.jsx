@@ -7,10 +7,11 @@ export const SoftSkills = () => {
     <Box mb="25px">
       <LeftSideTitle color="white">SOFT SKILLS</LeftSideTitle>
       <LeftSideList color="white">
-        <li>Autgoing</li>
         <li>Responsibility</li>
+        <li>Diligence</li>
         <li>Teamwork</li>
-        <li>Organization</li>
+        <li>Flexibility</li>
+        <li>Punctuality</li>
         <li>Good communicator</li>
       </LeftSideList>
     </Box>

@@ -12,12 +12,15 @@ export const About = () => {
       <Box mb="30px">
         <SecondTitle>SUMMARY</SecondTitle>
         <Text>
-          I am Full-Stack developer looking for a full-time position in a
+          I am Junior Full-Stack developer looking for a full-time position in a
           company that makes life and business easier, more productive and
           user-friendly. I have knowledge of HTML, CSS, SASS, JavaScript, React
-          and TypeScript. Also, i have hands-on experience in following
-          Agile/Scrum methodology when working in a team. I am a fast leaner,
-          responsible, reliable, cooperative and ready for challenging tasks.
+          and TypeScript. I'm improving my skills in this direction and
+          expanding them with new technologies and frameworks. Also, i have
+          hands-on experience in following Agile/Scrum methodology when working
+          in a team. I am a fast leaner, responsible, reliable, cooperative.
+          Ready for challenging tasks and to show my full devotion and
+          involvement in the work.
         </Text>
       </Box>
     </>
